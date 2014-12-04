@@ -1,6 +1,5 @@
 var bg;
 
-
 function setup() {
  
   bg = loadImage("mkw_89095.jpg");
